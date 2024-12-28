@@ -18,3 +18,4 @@ As a primer subject, this course will introduce students to information systems 
 
 ● Chapter 8: Cloud Computing
 
+<a href="https://youtu.be/mhGm2eA9Oe8">Design Thinking Project
