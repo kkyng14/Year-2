@@ -17,3 +17,4 @@ As a primer subject, this course will introduce students to information systems 
 ● Chapter 7: Privacy, Security, and Ethics
 
 ● Chapter 8: Cloud Computing
+
