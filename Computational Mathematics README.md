@@ -32,3 +32,9 @@ mathematical problems.
 ● Chapter 9 - Numerical Differentiation
 
 ● Chapter 10 - Numerical Integration
+
+<a href="https://feldagov-my.sharepoint.com/:b:/g/personal/thaqif_aa_felda_net_my/EcawBt8MKy5HtbMLBrOGcoEB7lTwDLANH4gSzGH_DF2fOw?e=D17OHm">Assignment 1
+
+<a href="https://feldagov-my.sharepoint.com/:b:/g/personal/thaqif_aa_felda_net_my/EULAeqcPTaxLkwpCGL1S6Y8BBsEY2QaZk6wkYKSDVYSNvA?e=1Nt8NS">Assignment 2 
+
+<a href="https://feldagov-my.sharepoint.com/:b:/g/personal/thaqif_aa_felda_net_my/Ee_oweN8C_pFkUJkT-lVkSMBtBN7jyklqFk_pxn25JTeWA?e=7dMxkP">Assignment 3
